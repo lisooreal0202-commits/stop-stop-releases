@@ -1,8 +1,8 @@
 {
     "version": "1.1.7",
-    "downloadUrl": "https://github.com/YOUR_USERNAME/stop-stop-releases/releases/download/v1.1.7/stop-stop-1.1.7.vsix",
+    "downloadUrl": "https://github.com/lisooreal0202-commits/stop-stop-releases/releases/download/v1.1.7/stop-stop-1.1.7.vsix",
     "checksum": "",
     "releaseDate": "2025-12-22",
-    "releaseNotes": "- 命令行模式自动清理 MCP 配置\n- HTTP 更新检查\n- 延迟启动检查",
+    "releaseNotes": "- 命令行模式自动清理 MCP 配置\n- GitHub Release 更新源\n- HTTP 更新检查",
     "minVsCodeVersion": "1.85.0"
 }
