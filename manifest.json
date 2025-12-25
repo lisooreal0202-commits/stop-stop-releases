@@ -1,9 +1,8 @@
 {
-    "version": "1.1.9",
-    "downloadUrl": "https://github.com/lisooreal0202-commits/stop-stop-releases/releases/download/v1.1.9/stop-stop-1.1.9.zip",
+    "version": "1.2.0",
+    "downloadUrl": "https://github.com/lisooreal0202-commits/stop-stop-releases/releases/download/v1.2.0/stop-stop-1.2.0.zip",
     "checksum": "",
-    "releaseNotes": "版本 1.1.9 更新：\n- 修复卡密系统连接问题（改用HTTP直连）\n- 修复公告获取失败问题\n- 重启MCP服务器改用随机端口\n- 优化侧边栏公告显示",
+    "releaseNotes": "版本 1.2.0 重大更新：\n- 🎯 修复CLI模式图片支持问题，AI现在能正常识别命令行模式下的图片\n- 🔧 完善所有MCP服务器的图片数据处理逻辑\n- 📷 支持图片在对话框中的双向传输（AI→用户，用户→AI）\n- ✨ 增强CLI独立模式的图片显示功能\n- 🚀 优化图片临时文件管理和格式支持",
     "releaseDate": "2025-12-25",
     "minVsCodeVersion": "1.85.0"
 }
-
