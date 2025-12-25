@@ -1,8 +1,9 @@
 {
-    "version": "1.1.8",
-    "downloadUrl": "https://github.com/lisooreal0202-commits/stop-stop-releases/releases/download/v1.1.8/stop-stop-1.1.8.zip",
+    "version": "1.1.9",
+    "downloadUrl": "https://github.com/lisooreal0202-commits/stop-stop-releases/releases/download/v1.1.9/stop-stop-1.1.9.zip",
     "checksum": "",
-    "releaseDate": "2025-12-22",
-    "releaseNotes": "- 自动清理 MCP 配置\n- GitHub Release 更新源\n- 延迟启动检查",
+    "releaseNotes": "版本 1.1.9 更新：\n- 修复卡密系统连接问题（改用HTTP直连）\n- 修复公告获取失败问题\n- 重启MCP服务器改用随机端口\n- 优化侧边栏公告显示",
+    "releaseDate": "2025-12-25",
     "minVsCodeVersion": "1.85.0"
 }
+
