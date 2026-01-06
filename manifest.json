@@ -1,8 +1,8 @@
 {
-    "version": "1.2.0",
-    "downloadUrl": "https://github.com/lisooreal0202-commits/stop-stop-releases/releases/download/v1.2.0/stop-stop-1.2.0.zip",
+    "version": "1.2.1",
+    "downloadUrl": "https://github.com/lisooreal0202-commits/stop-stop-releases/releases/download/v1.2.1/stop-stop-1.2.1.zip",
     "checksum": "",
-    "releaseNotes": "版本 1.2.0 重大更新：\n- 🎯 修复CLI模式图片支持问题，AI现在能正常识别命令行模式下的图片\n- 🔧 完善所有MCP服务器的图片数据处理逻辑\n- 📷 支持图片在对话框中的双向传输（AI→用户，用户→AI）\n- ✨ 增强CLI独立模式的图片显示功能\n- 🚀 优化图片临时文件管理和格式支持",
-    "releaseDate": "2025-12-25",
+    "releaseNotes": "版本 1.2.1 修复更新：\n- 🔧 修复端口获取问题，统一所有模式的端口搜索逻辑\n- 🔧 修复更新弹窗重复显示问题\n- ✨ 新增端口诊断修复工具 (fix-port.js)\n- 🚀 优化端口健康检查和自动清理无效映射\n- 💪 增强容错处理，workspace不匹配时不再拒绝",
+    "releaseDate": "2025-01-06",
     "minVsCodeVersion": "1.85.0"
 }
